@@ -11,7 +11,7 @@
 | Attack-surface scan | Map your application's attack surface, derive and validate evidence-backed security findings |
 | File-sweep scan | Inspect every source file and verify each possible issue through successive passes |
 | Ansible automation | Develop, review, and refactor playbooks and roles following Ansible best practices |
-| Terraform | Develop, review, and refactor Terraform HCL configurations with `terraform test` validation |
+| Terraform | Develop, review, and refactor Terraform HCL configurations with terraform test validation |
 | Safe write | Intercept and scan proposed file writes and package install commands for security vulnerabilities before changes are applied. |
 | Security dashboard | Summary of all issues identified by scanning your code |
 
@@ -19,7 +19,7 @@
 
 1. Install [IBM Bob](https://bob.ibm.com).
 2. Subscribe to IBM Bob Premium Package for DevSecOps.
-3. Install the package using instrictions at [Bob Docs](https://bob.ibm.com/docs/ide/premium-packages/pkg-index#installing-a-premium-package)
+3. Install the package using instructions at [Bob Docs](https://bob.ibm.com/docs/ide/premium-packages/pkg-index#installing-a-premium-package)
 4. Open your project in Bob and click **Open Welcome Page** to launch any workflow or scan.
 
 You can also start workflows directly from the Bob prompt:
