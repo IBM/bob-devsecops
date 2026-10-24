@@ -2,7 +2,7 @@
 
 All notable changes to the **IBM Bob Premium Package for DevSecOps** will be documented in this file.
 
-## [1.0.0] — Initial Release
+## [1.0.1] — Initial Release
 
 First public release of IBM Bob Premium Package for DevSecOps for [IBM Bob](https://bob.ibm.com).
 
