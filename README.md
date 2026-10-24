@@ -31,6 +31,9 @@ You can also start workflows directly from the Bob prompt:
 /ansible-automation               — Ansible skill
 /terraform-this                   — Terraform skill
 ```
+You can also run static scans directly from the Command Palette:
+
+Press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>), type **`DevSecOps: Scan for issues`**, and press <kbd>Enter</kbd> to run a full security and supply chain scan across your workspace.
 
 ## Requirements
 
